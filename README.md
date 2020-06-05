@@ -1,4 +1,4 @@
-Project created for the LO43 UV during A19 Semester
+Group Project created for the LO43 UV during A19 Semester
 
 The main objective is to recreate a game based on the 7 Wonders game with our school skin.
 
