@@ -1,0 +1,5 @@
+#ignore project files
+.project
+.classpath
+
+/.metadata/
